@@ -1,0 +1,5 @@
+{
+  "mqttServer": "casabril.local",
+  "mqttPort": "1883",
+  "mqttTopic": "/bedroom/bedButton"
+}
